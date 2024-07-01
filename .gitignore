@@ -2,6 +2,8 @@
 .gradle
 
 build/
+logs/
+saves/
 
 # Compiled class file
 *.class

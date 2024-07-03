@@ -3,7 +3,7 @@
 
 build/
 logs/
-saves/
+run/
 
 # Compiled class file
 *.class
